@@ -1,0 +1,11 @@
+📂 requirements
+plotly>=5.0.0
+pandas>=1.3.0
+numpy>=1.21.0
+
+
+This way, anyone can install everything in one go:
+
+pip install -r requirements.txt
+
+
